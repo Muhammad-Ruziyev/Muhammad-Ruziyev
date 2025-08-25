@@ -19,7 +19,8 @@ Each project reflects my dedication to writing code that’s not only efficient 
 # My Skills 🍫  
 
 ### 💻 Frontend  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,ts,reactNative,flutter,dart)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,ts,flutter,dart)](https://skillicons.dev)  
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000)  
 
 ### ⚙️ Backend  
 [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs)](https://skillicons.dev)  
