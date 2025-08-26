@@ -28,8 +28,6 @@ Each project reflects my dedication to writing code that’s not only efficient 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" width="40" height="40" alt="Vite" title="Vite"/>
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=000" height="40" alt="React Native" title="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" title="Flutter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" title="Dart"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS" title="NestJS"/>
 </p>
