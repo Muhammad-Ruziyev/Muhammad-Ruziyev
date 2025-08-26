@@ -39,16 +39,10 @@ Each project reflects my dedication to writing code that’s not only efficient 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruziyev01&show_icons=true&theme=radical" alt="Ruziyev's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ruziyev&show_icons=true&theme=radical" alt="Ruziyev's GitHub stats" height="180"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruziyev01&layout=compact&theme=radical" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ruziyev&layout=compact&theme=radical" alt="Top Langs" height="180"/>
 </p>
-
----
-
-### 🥋 Codewars Stats  
-
-![Codewars](https://www.codewars.com/users/ruziyev01/badges/large)
 
 ---
 
@@ -57,7 +51,7 @@ Each project reflects my dedication to writing code that’s not only efficient 
 <p align="left">
   <a href="mailto:ruziyev01@list.ru"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/scooby_bolshoy"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
-  <a href="https://github.com/ruziyev01"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Muhammad-Ruziyev"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
